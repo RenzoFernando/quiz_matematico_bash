@@ -1,3 +1,4 @@
+#!/bin/bash
 generar_aleatorio()
 {
     typeset -i minimo=$1

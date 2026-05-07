@@ -21,3 +21,7 @@ bash main.sh
 - Renzo Mosquera Daza: estructura inicial del proyecto, archivo principal, entrada de datos, problema de suma  y documentación.
 - Luna Catalina Martínez: menú principal, validación de opciones, problema de resta y problema de multiplicación.
 - Hideki Tamura Hernández: lógica común del quiz, problema de división y integración final.
+
+## Uso de IA
+
+Usamos IA para entender algunos condicionales `if` y la asignación de variables. La lógica se construyó principalmente con prueba y error.

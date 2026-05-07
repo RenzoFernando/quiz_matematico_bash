@@ -1,3 +1,4 @@
+#!/bin/bash
 problema_division()
 {
     typeset -i a

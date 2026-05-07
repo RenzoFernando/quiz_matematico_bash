@@ -1,3 +1,4 @@
+#!/bin/bash
 problema_multiplicacion()
 {
     typeset -i a

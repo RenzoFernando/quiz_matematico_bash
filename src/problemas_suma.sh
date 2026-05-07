@@ -1,3 +1,4 @@
+#!/bin/bash
 problema_suma()
 {
     typeset -i a

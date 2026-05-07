@@ -1,3 +1,4 @@
+#!/bin/bash
 realizar_pregunta()
 {
     typeset pregunta="$1"
