@@ -17,7 +17,7 @@ ejecutar_opcion()
         1) problema_suma;;
         2) problema_resta;;
         3) problema_multiplicacion;;
-        4) echo "La opción de división todavía no está disponible en esta versión.";;
+        4) problema_division;;
         9) echo "Saliendo del quiz."; return 1;;
         *) echo "Opción inválida. Intenta de nuevo.";;
     esac

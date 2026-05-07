@@ -11,11 +11,10 @@ realizar_pregunta()
         then
             echo "Correcto. Bien hecho."
             return 0
-        else
-            if (( intento < 3 ))
-            then
-                echo "Incorrecto. Inténtalo de nuevo."
-            fi
+        fi
+        if (( intento < 3 ))
+        then
+            echo "Incorrecto. Inténtalo de nuevo."
         fi
         (( intento = intento + 1 ))
     done
